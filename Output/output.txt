@@ -1,0 +1,35 @@
+Welcome to my dictionary program!
+Here are your options:
+        1. Find
+        2. Insert
+        3. Remove
+        4. Sort
+        5. Size
+        6. Clear
+        7. Print
+        8. Quit
+Enter your option: 4
+What kind of sort algorithm should be used?
+        1. Bubble sort
+        2. Selection sort
+        3. Insertion sort
+1
+Number of key comparisons: 28
+Number of swaps: 15
+Enter your option: 4
+What kind of sort algorithm should be used?
+        1. Bubble sort
+        2. Selection sort
+        3. Insertion sort
+2
+Number of key comparisons: 28
+Number of swaps: 0
+Enter your option: 4
+What kind of sort algorithm should be used?
+        1. Bubble sort
+        2. Selection sort
+        3. Insertion sort
+3
+Number of key comparisons: 7
+Number of swaps: 0
+Enter your option: 8
